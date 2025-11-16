@@ -1,7 +1,5 @@
 # 🛒 RAVI🔆STORE - PERN Ecommerce Application
 
-![Project Banner](frontend/public/retro.png)
-
 A modern, full-stack e-commerce platform built with the **PERN Stack** (PostgreSQL, Express.js, React, Node.js). This application features product management, a dynamic shopping cart, multiple customizable themes, and a responsive user interface. It includes security features like rate limiting, authentication middleware, and a sleek frontend with animations and notifications.
 
 ## 🌟 Features
