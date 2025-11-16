@@ -1,6 +1,9 @@
+# RAVISTORE---PERN-Ecommerce-Application
+A modern, feature-rich e-commerce platform built with the PERN stack (PostgreSQL, Express.js, React, Node.js). Features comprehensive product management, dynamic shopping cart, 40+ customizable themes, responsive design, and robust security with rate limiting. Includes beautiful UI with animations, toast notifications, and a complete backend API.
+=======
 # 🛒 RAVI🔆STORE - PERN Ecommerce Application
 
-![Project Banner](frontend/public/night.png)
+![Project Banner](frontend/public/retro.png)
 
 A modern, full-stack e-commerce platform built with the **PERN Stack** (PostgreSQL, Express.js, React, Node.js). This application features product management, a dynamic shopping cart, multiple customizable themes, and a responsive user interface. It includes security features like rate limiting, authentication middleware, and a sleek frontend with animations and notifications.
 
@@ -144,8 +147,8 @@ e:/PERN/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Ravi19092004/ravi-store.git
-   cd ravi-store
+   git clone https://github.com/Ravi19092004/RAVISTORE.git
+   cd RAVISTORE
    ```
 
 2. **Install dependencies**:
@@ -186,3 +189,7 @@ This project is licensed under the ISC License.
 ---
 
 **Made with ❤️ by Ravi** | [GitHub](https://github.com/Ravi19092004) | [LinkedIn](https://linkedin.com/in/ravishankar-gharabidi-35bb2b262)
+=======
+# RAVISTORE---PERN-Ecommerce-Application
+A modern, feature-rich e-commerce platform built with the PERN stack (PostgreSQL, Express.js, React, Node.js). Features comprehensive product management, dynamic shopping cart, 40+ customizable themes, responsive design, and robust security with rate limiting. Includes beautiful UI with animations, toast notifications, and a complete backend API.
+>>>>>>> e8db9e3a7fdcb39fd3e9d185791dae9216fe4276
